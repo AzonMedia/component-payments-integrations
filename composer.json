@@ -2,7 +2,7 @@
     "name": "guzaba-platform/payments-integrations",
     "type": "guzaba-platform-component",
     "description": "GuzabaPlatform Payments Integrations component",
-    "keywords": ["tags"],
+    "keywords": ["payments integrations"],
     "homepage": "https://github.com/AzonMedia/component-payments-integrations",
     "license": "BSD-3-Clause",
     "minimum-stability": "dev",
