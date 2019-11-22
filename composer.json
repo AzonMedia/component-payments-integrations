@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "GuzabaPlatform\\Tags\\": "app/src/"
+            "GuzabaPlatform\\Payments\\Integrations\\": "app/src/"
         }
     }
 }
